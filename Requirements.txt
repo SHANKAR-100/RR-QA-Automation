@@ -1,0 +1,5 @@
+robotframework==7.0.1
+robotframework-browser==19.10.0
+playwright==1.55.0
+
+# Note: After installing, run 'rfbrowser init' to set up browser binaries
